@@ -1,6 +1,6 @@
 # git-no-command-line
 
-Use GitHub and vscode to perform all the basic git operations for collaborative development without relying on any terminal commands.
+Use GitHub and Visual Studio Code to perform all the basic git operations for collaborative development without relying on any terminal commands.
 
 ## Prerequisites
 
@@ -10,13 +10,17 @@ Use GitHub and vscode to perform all the basic git operations for collaborative 
 * GitLens ([eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens))
 * GitHub Pull Requests and Issues ([GitHub.vscode-pull-request-GitHub](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github))
 
-**Step 3**: [Log in to GitHub from within vscode](./doc/vscode-github-login.md)
+**Step 3**: [Log in to GitHub from within VSCode](./doc/vscode-github-login.md)
 
 ## Concepts
 
 * [Understanding staging, committing, pushing, and pulling](./doc/understanding-staging-committing-pushing-pulling.md)
 
 ## Basic GitHub collaboration flow (no command line)
+
+[![Tutorial](https://img.youtube.com/vi/nyTC3mRDWAg/0.jpg)](https://www.youtube.com/watch?v=nyTC3mRDWAg)
+
+[Watch the tutorial on youtube](https://www.youtube.com/watch?v=nyTC3mRDWAg)
 
 * [Create a new GitHub repository](./doc/create-github-repo.md)
 * [Clone a repository](./doc/clone-github-repo.md)
